@@ -2,7 +2,7 @@
 // where objects drop and you try to catch them.
 let groundLevel;
 let puppyHeight;
-let texOffset;
+let textOffset;
 function setup() {
   groundLevel = 325;
   puppyHeight = 60;
