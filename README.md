@@ -12,3 +12,7 @@ add a mouseIsPressed() function so that something on your catcher sprite changes
 A3Q3
 https://editor.p5js.org/coffiemug/full/oJL8c_-2A
 add a falling object which your sprite will eventually try to catch. let the falling object, here it's a bone, fall from a new random x position each time the sketch is played.
+
+A3Q4/5
+https://editor.p5js.org/coffiemug/sketches/1AyMzgEiO
+change it so the bone falls when the mouse is clicked, and so the sprite change happens when the bone and sprite collide. I have technically done this second part but you can't see it because the bone immediately resets, so I need to find a way to fix that.
