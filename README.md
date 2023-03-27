@@ -16,3 +16,7 @@ add a falling object which your sprite will eventually try to catch. let the fal
 A3Q4/5
 https://editor.p5js.org/coffiemug/sketches/1AyMzgEiO
 change it so the bone falls when the mouse is clicked, and so the sprite change happens when the bone and sprite collide. I have technically done this second part but you can't see it because the bone immediately resets, so I need to find a way to fix that.
+
+A3Q4/5 REVISED
+https://editor.p5js.org/coffiemug/sketches/hGE7Uh-w6
+reset of falling bone is betterr implemented, using booleans and if statements. this version is also much tidier (and a different link than the last one cause I made a duplicate). the woof from when the puppy catches the bone is more visible now although I want it to stay until the next time the mouse is clicked to throw the bone, which I've not been able to accomplish yet. also hoping to add a score counter of sorts for bones caught, and some instructions (click to throw, then move the mouse and the puppy will follow) if I have some more time. 
